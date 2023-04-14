@@ -3,7 +3,9 @@ Andi adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. A
 Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutuhkan Programmer untuk membuatkan fitur - fitur agar bisa sistem kasir self-service di supermarket itu bisa berjalan dengan lancar.
 
 ## Objective & Feature Requirements
-Objective: Membuat sistem kasir self-service di supermarket milik Andi
+Objective: 
+Membuat sistem kasir self-service di supermarket milik Andi
+
 Requirements: 
 - Customer bisa membuat transaksi sendiri
 - Customer bisa memasukkan nama item, jumlah item, dan harga per item
@@ -11,8 +13,7 @@ Requirements:
 - Customer memiliki opsi untuk membatalkan item belanja
 - Customer bisa menghapus seluruh order dengan reset transaksi
 - Bisa melakukan check order untuk memastikan tidak ada salah input
-- Total price bisa mendapatkan diskon jika memenuhi syarat syarat tertentu"
-![image](https://user-images.githubusercontent.com/130051156/231981290-d11d6e1b-fac7-4bcf-ba1e-e5ac7e5729ed.png)
+- Total price bisa mendapatkan diskon jika memenuhi syarat syarat tertentu
 
 
 ![Cashier flowchart pacmann](https://user-images.githubusercontent.com/130051156/231973794-7872bfff-efa9-4892-aa27-cd544e876acf.png)

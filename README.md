@@ -28,9 +28,11 @@ import tabulate untuk menyajikan beberapa kode berikutnya dalam bentuk tabel
 
 ![image](https://user-images.githubusercontent.com/130051156/232235369-7d61b417-4ebd-4478-b4e9-304de1ac1344.png)
 
+
 b. Transaction Class
 Inisialisasi class transaksi sebagai parent class
 ![image](https://user-images.githubusercontent.com/130051156/232237886-e06394e3-4a7d-4b8d-949f-00134a78f162.png)
+
 
 c. Fungsi add_item untuk menambahkan item berdasarkan nama item, jumlah item, dan harga item
 ![image](https://user-images.githubusercontent.com/130051156/232237923-ed6358f1-6311-4dfc-8c42-8856973deb2d.png)

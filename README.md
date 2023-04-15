@@ -30,7 +30,7 @@ import tabulate untuk menyajikan beberapa kode berikutnya dalam bentuk tabel
 
 b. Transaction Class
 Inisialisasi class transaksi sebagai parent class
-![image](https://user-images.githubusercontent.com/130051156/232235768-00e04c09-b94f-4f81-9a75-34f7fcea588b.png)
+![image](https://user-images.githubusercontent.com/130051156/232237886-e06394e3-4a7d-4b8d-949f-00134a78f162.png)
 
 c. 
 

@@ -32,6 +32,8 @@ b. Transaction Class
 Inisialisasi class transaksi sebagai parent class
 ![image](https://user-images.githubusercontent.com/130051156/232237886-e06394e3-4a7d-4b8d-949f-00134a78f162.png)
 
-c. 
+c. Fungsi add_item untuk menambahkan item berdasarkan nama item, jumlah item, dan harga item
+![image](https://user-images.githubusercontent.com/130051156/232237923-ed6358f1-6311-4dfc-8c42-8856973deb2d.png)
+
 
 

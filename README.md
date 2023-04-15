@@ -80,3 +80,6 @@ bentuk angka
 
 
 
+## Future Work
+1. Membuat loyalty program bagi customer yang memenuhi syarat tertentu seperti selama berapa bulan berturut - turut menjadi customer atau lainnya. Untuk customer yang dapat loyalty program, bisa mendapatkan diskon yang lebih besar dari normal.
+2. Bundling program untuk item - item tertentu dimana jika item digabung pembelian dengan beberapa item lainnya, customer bisa mendapatkan harga yang lebih murah

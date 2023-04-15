@@ -13,7 +13,10 @@ Requirements:
 - Customer memiliki opsi untuk membatalkan item belanja
 - Customer bisa menghapus seluruh order dengan reset transaksi
 - Bisa melakukan check order untuk memastikan tidak ada salah input
-- Total price bisa mendapatkan diskon jika memenuhi syarat syarat tertentu
+- Total belanja bisa mendapatkan diskon jika memenuhi syarat syarat tertentu
+  a. Jika total belanja diatas Rp 200.000 maka akan mendapatkan diskon 5%
+  b. Jika total belanja diatas Rp 300.000 maka akan mendapatkan diskon 8%
+  c. Jika total belanja diatas Rp 500.000 maka akan mendapatkan diskon 10%
 
 
 ![Cashier flowchart pacmann](https://user-images.githubusercontent.com/130051156/231973794-7872bfff-efa9-4892-aa27-cd544e876acf.png)

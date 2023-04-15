@@ -23,5 +23,14 @@ Requirements:
 ![Cashier flowchart pacmann](https://user-images.githubusercontent.com/130051156/231973794-7872bfff-efa9-4892-aa27-cd544e876acf.png)
 
 ## Code Description
+a. Tabulate 
+import tabulate untuk menyajikan beberapa kode berikutnya dalam bentuk tabel
 ![image](https://user-images.githubusercontent.com/130051156/232235369-7d61b417-4ebd-4478-b4e9-304de1ac1344.png)
+
+b. Transaction Class
+Inisialisasi class transaksi sebagai parent class
+![image](https://user-images.githubusercontent.com/130051156/232235768-00e04c09-b94f-4f81-9a75-34f7fcea588b.png)
+
+c. 
+
 

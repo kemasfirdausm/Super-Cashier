@@ -38,4 +38,19 @@ c. Fungsi add_item untuk menambahkan item berdasarkan nama item, jumlah item, da
 ![image](https://user-images.githubusercontent.com/130051156/232237923-ed6358f1-6311-4dfc-8c42-8856973deb2d.png)
 
 
+d. Memastikan item_qty dan item_price dalam bentuk integer dan menunjukkan error kedua variabel harus dalam bentuk angka
+![image](https://user-images.githubusercontent.com/130051156/232238043-acadb13b-2010-41fa-91f1-7321a7b0ed9e.png)
+
+
+e. update_item_name untuk update nama dari item yang sudah dimasukkan
+![image](https://user-images.githubusercontent.com/130051156/232238345-94617d76-a41f-499a-aeec-96b59ee3e825.png)
+
+
+f. update_item_qty untuk update jumlah dari item yang sudah dimasukkan
+![image](https://user-images.githubusercontent.com/130051156/232238369-0a1bc84b-be11-4030-975e-0b90afe03d05.png)
+
+
+g. update_item_price untuk update jumlah dari item yang sudah dimasukkan
+![image](https://user-images.githubusercontent.com/130051156/232238386-7b2ac646-22b4-4452-95e9-3776a23bdda1.png)
+
 

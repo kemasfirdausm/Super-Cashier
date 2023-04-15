@@ -14,9 +14,9 @@ Requirements:
 - Customer bisa menghapus seluruh order dengan reset transaksi
 - Bisa melakukan check order untuk memastikan tidak ada salah input
 - Total belanja bisa mendapatkan diskon jika memenuhi syarat syarat tertentu
-  a. Jika total belanja diatas Rp 200.000 maka akan mendapatkan diskon 5%
-  b. Jika total belanja diatas Rp 300.000 maka akan mendapatkan diskon 8%
-  c. Jika total belanja diatas Rp 500.000 maka akan mendapatkan diskon 10%
+     a. Jika total belanja diatas Rp 200.000 maka akan mendapatkan diskon 5%
+     b. Jika total belanja diatas Rp 300.000 maka akan mendapatkan diskon 8%
+     c. Jika total belanja diatas Rp 500.000 maka akan mendapatkan diskon 10%
 
 
 ## Flowchart

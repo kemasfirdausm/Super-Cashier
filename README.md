@@ -19,4 +19,5 @@ Requirements:
   c. Jika total belanja diatas Rp 500.000 maka akan mendapatkan diskon 10%
 
 
+## Flowchart
 ![Cashier flowchart pacmann](https://user-images.githubusercontent.com/130051156/231973794-7872bfff-efa9-4892-aa27-cd544e876acf.png)

@@ -81,28 +81,29 @@ bentuk angka
 
 ## Test Cases
 1. Test Case 1
-add_item:
+add_item untuk menambahkan item yang dipilih ke dalam bucket orders
 ![image](https://user-images.githubusercontent.com/130051156/232277976-b6c8766e-f512-4f6d-a4e9-6e55a76cefab.png)
 
 
 2. Test Case 2
-delete_item:
+delete_item untuk menghapus item yang salah dipilih oleh user
 
 ![image](https://user-images.githubusercontent.com/130051156/232277987-e0aa2da1-6e38-405d-b365-91750ac17d92.png)
 
 
 3. Test Case 3
-reset_transaction:
-
+reset_transaction untuk memulai pemilihan order dari awal dan menghapus seluruh order yang telah dipilih
 ![image](https://user-images.githubusercontent.com/130051156/232278003-18932f40-9fe2-4006-8875-dcb30a77015d.png)
 
 
 4. Test Case 4
-total_price:
-
+total_price untuk menghitung total belanja customer
 ![image](https://user-images.githubusercontent.com/130051156/232278042-b6d0f36b-d821-4162-b3a1-7dcc7d5c37ac.png)
 
 
-## Future Work
+## Conclusion & Future Work
+Sistem kasir sudah berhasil melewati test cases yang diberikan dan sudah bisa digunakan untuk melayani customer supermarket.
+
+Kedepannya, ada beberapa hal yang bisa dilakukan untuk menarik ketertarikan customer untuk belanja di supermarket Andi:
 1. Membuat loyalty program bagi customer yang memenuhi syarat tertentu seperti selama berapa bulan berturut - turut menjadi customer atau lainnya. Untuk customer yang dapat loyalty program, bisa mendapatkan diskon yang lebih besar dari normal.
 2. Bundling program untuk item - item tertentu dimana jika item digabung pembelian dengan beberapa item lainnya, customer bisa mendapatkan harga yang lebih murah

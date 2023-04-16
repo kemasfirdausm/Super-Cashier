@@ -84,16 +84,22 @@ bentuk angka
 add_item:
 ![image](https://user-images.githubusercontent.com/130051156/232277976-b6c8766e-f512-4f6d-a4e9-6e55a76cefab.png)
 
+
 2. Test Case 2
 delete_item:
+
 ![image](https://user-images.githubusercontent.com/130051156/232277987-e0aa2da1-6e38-405d-b365-91750ac17d92.png)
+
 
 3. Test Case 3
 reset_transaction:
+
 ![image](https://user-images.githubusercontent.com/130051156/232278003-18932f40-9fe2-4006-8875-dcb30a77015d.png)
+
 
 4. Test Case 4
 total_price:
+
 ![image](https://user-images.githubusercontent.com/130051156/232278042-b6d0f36b-d821-4162-b3a1-7dcc7d5c37ac.png)
 
 

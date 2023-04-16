@@ -47,7 +47,7 @@ bentuk angka
 
 
 5. update_item_name untuk update nama dari item yang sudah dimasukkan
-6. 
+
 ![image](https://user-images.githubusercontent.com/130051156/232327080-b24607e3-3ab9-4d4a-95ca-7f0733c6a2f9.png)
 
 

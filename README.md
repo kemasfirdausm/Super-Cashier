@@ -93,7 +93,8 @@ delete_item untuk menghapus item yang salah dipilih oleh user
 
 3. Test Case 3
 reset_transaction untuk memulai pemilihan order dari awal dan menghapus seluruh order yang telah dipilih
-![image](https://user-images.githubusercontent.com/130051156/232278003-18932f40-9fe2-4006-8875-dcb30a77015d.png)
+![image](https://user-images.githubusercontent.com/130051156/232326897-8b99d641-2000-4be6-b846-0abaa3d8678c.png)
+
 
 
 4. Test Case 4

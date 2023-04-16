@@ -25,6 +25,7 @@ Requirements:
 ## Code Description
 1. Tabulate 
 import tabulate untuk menyajikan beberapa kode berikutnya dalam bentuk tabel
+
 ![image](https://user-images.githubusercontent.com/130051156/232235369-7d61b417-4ebd-4478-b4e9-304de1ac1344.png)
 
 
@@ -34,48 +35,48 @@ Inisialisasi class transaksi sebagai parent class
 
 
 3. Fungsi add_item untuk menambahkan item berdasarkan nama item, jumlah item, dan harga item
-![image](https://user-images.githubusercontent.com/130051156/232237923-ed6358f1-6311-4dfc-8c42-8856973deb2d.png)
+![image](https://user-images.githubusercontent.com/130051156/232327052-a24475d0-1e43-4d6d-9ef1-e032adb5e711.png)
 
 
 4. Memastikan item_qty dan item_price dalam bentuk integer dan menunjukkan error kedua variabel harus dalam 
 bentuk angka
-![image](https://user-images.githubusercontent.com/130051156/232238043-acadb13b-2010-41fa-91f1-7321a7b0ed9e.png)
+![image](https://user-images.githubusercontent.com/130051156/232327065-079d0b55-5169-455f-b760-064fdcfabd1d.png)
 
 
 5. update_item_name untuk update nama dari item yang sudah dimasukkan
-![image](https://user-images.githubusercontent.com/130051156/232238345-94617d76-a41f-499a-aeec-96b59ee3e825.png)
+![image](https://user-images.githubusercontent.com/130051156/232327080-b24607e3-3ab9-4d4a-95ca-7f0733c6a2f9.png)
 
 
 6. update_item_qty untuk update jumlah dari item yang sudah dimasukkan
-![image](https://user-images.githubusercontent.com/130051156/232238369-0a1bc84b-be11-4030-975e-0b90afe03d05.png)
+![image](https://user-images.githubusercontent.com/130051156/232327092-6fc4c67d-7d14-49fd-a1d3-fcc6f18e27f0.png)
 
 
 7. update_item_price untuk update jumlah dari item yang sudah dimasukkan
-![image](https://user-images.githubusercontent.com/130051156/232238386-7b2ac646-22b4-4452-95e9-3776a23bdda1.png)
+![image](https://user-images.githubusercontent.com/130051156/232327102-4d8b99de-dd76-4a1a-8346-2c2fed47f743.png)
 
 
 8. show_order untuk melihat order yang sudah di input dalam bentuk tabel
-![image](https://user-images.githubusercontent.com/130051156/232238671-070e72bc-be78-43d3-9686-6489e5bd195f.png)
+![image](https://user-images.githubusercontent.com/130051156/232327125-46ae8003-9bf6-46ba-b22b-71b8c3d7a86e.png)
 
 
 9. delete_item untuk menghapus barang yang tidak jadi dibeli
-![image](https://user-images.githubusercontent.com/130051156/232239082-e1e1edc8-9c0f-4d9a-bb6c-a8f8bc6f177b.png)
+![image](https://user-images.githubusercontent.com/130051156/232327135-0cbe4cc8-2571-4232-8541-a8c99472ec0e.png)
 
 
 10. reset_transaction untuk menghapus seluruh inputan transaksi yang telah di input
-![image](https://user-images.githubusercontent.com/130051156/232239102-f2af40b0-3010-447b-9e6b-3ac9b96011c4.png)
+![image](https://user-images.githubusercontent.com/130051156/232327145-43bc2576-bce2-42b9-b510-4e7bdc63bce8.png)
 
 
 11. check_order untuk memastikan item sudah di input secara lengkap dan benar
-![image](https://user-images.githubusercontent.com/130051156/232239249-37e2852a-63b9-4b34-8a25-7c9705beb9e0.png)
+![image](https://user-images.githubusercontent.com/130051156/232327159-67441609-cd0e-4307-9d26-8247e4387b48.png)
 
 
 12. discount_eligible fungsi untuk melihat apakah pembelian sudah memenuhi syarat diskon
-![image](https://user-images.githubusercontent.com/130051156/232239300-160a077e-2ad3-4af8-b601-46ebf5fa8bad.png)
+![image](https://user-images.githubusercontent.com/130051156/232327173-0f521cfd-bdbb-4588-990a-ee6fa89c77d3.png)
 
 
 13. total_price untuk menghitung total belanjaan customer setelah diskon jika mendapatkan diskon
-![image](https://user-images.githubusercontent.com/130051156/232239324-90e33c30-6ac1-4efe-8f3a-eb914ec47562.png)
+![image](https://user-images.githubusercontent.com/130051156/232327197-63a7c22c-7dea-4c47-9459-b5170a9a9b96.png)
 
 
 ## Test Cases

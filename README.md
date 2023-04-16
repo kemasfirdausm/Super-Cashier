@@ -25,13 +25,12 @@ Requirements:
 ## Code Description
 1. Tabulate 
 import tabulate untuk menyajikan beberapa kode berikutnya dalam bentuk tabel
-
 ![image](https://user-images.githubusercontent.com/130051156/232235369-7d61b417-4ebd-4478-b4e9-304de1ac1344.png)
 
 
 2. Transaction Class
 Inisialisasi class transaksi sebagai parent class
-![image](https://user-images.githubusercontent.com/130051156/232237886-e06394e3-4a7d-4b8d-949f-00134a78f162.png)
+![image](https://user-images.githubusercontent.com/130051156/232327018-eed05c5b-3756-4ed6-ba4d-ac34cdd22e6b.png)
 
 
 3. Fungsi add_item untuk menambahkan item berdasarkan nama item, jumlah item, dan harga item
